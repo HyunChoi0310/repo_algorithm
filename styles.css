@@ -1,0 +1,57 @@
+body {
+    background-image: url("background_baechu.jpg");
+    font-family: "Times New Roman";
+}
+
+h3 {
+    color : #048e00;
+    text-align : center;
+    font-size : 24px;
+}
+
+h4 {
+    color :#Be2525;
+    backgroud-color :#F7caca;
+    text-align : center;
+    font-size : 22px;
+}
+
+li {
+    color :black;
+}
+
+strong {
+    color :#Be2525;
+}
+
+tr {
+    padding-left : 0;
+    padding-right :0;
+    padding-top :0;
+    padding-bottom :0;
+    margin-bottom :0;
+    margin-top :0;
+}
+
+td {
+    padding-left : 0;
+    padding-right :0;
+    padding-top :0;
+    padding-bottom :0;
+    margin-bottom :0;
+    margin-top :0;
+}
+
+td.explain_text {
+    text-align : left;
+    font-size : 20px;
+}
+
+div.block_1 {
+    padding-left : 0;
+    padding-right :0;
+    padding-top :0;
+    padding-bottom :0;
+    margin-bottom :0;
+    margin-top :0;
+}
